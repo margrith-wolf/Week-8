@@ -1,0 +1,172 @@
+.background{
+    background-color: #649ed1;
+}
+
+.tabs{
+    text-align: center;
+    font-size: 1.3em;
+}
+
+#logo{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5px;
+}
+
+#Bend{
+   opacity: 0.8;
+}
+
+.container{
+    padding-top: 5px;
+}
+
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    color: white;
+    font-size: 7.5em;
+}
+
+h1 {
+    text-align: center;
+ }
+
+ p{
+    font-size: 1.5em;
+    text-align: center;
+ }
+
+ .container1{
+    padding-top: 5px;
+    padding-bottom: 20px;
+    position: relative;
+ }
+
+ .history{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 1em;
+ }
+
+ .icons{
+    height: 50px;
+    text-align: center;
+ }
+
+ .fa{
+    font-size: 30px;
+    width: 30px;
+    text-decoration: none;
+ }
+
+ .fa-facebook{
+    color: black;
+ }
+ 
+ .fa-instagram{
+    color: black;
+ }
+
+ .fa-linkedin{
+    color: black;
+ }
+
+ #downhill{
+    width: 600px;
+    height: auto;
+    padding-top: 10px;
+    float: left;
+ }
+
+ .beers{
+   text-align: right;
+ }
+
+h2{
+   text-align: center;
+}
+
+.size{
+   font-size: 1.4em;
+}
+
+table.center{
+   margin-left: auto;
+   margin-right: auto;
+   padding-bottom: 10px;
+}
+#months{
+   padding: 5px;
+   text-align: center;
+}
+
+#drinks{
+   padding: 5px;
+   text-align: center;
+}
+
+#map{
+   width: 700px;
+   height: auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-bottom: 5px;
+}
+
+.contacttext{
+   font-size: 1.2em;
+}
+
+#format{
+   padding-top: 20px;
+}
+
+#tinytext{
+   font-size: 1em;
+}
+
+#couple{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-bottom: 5px;
+   width: 450px;
+   height: auto;
+}
+
+#days{
+   float:left;
+}
+
+.form {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-bottom: 15px;
+}
+
+input{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 25%;
+   padding: 10px 20px;
+}
+
+input:focus{
+   background-color: #a3acb5;
+}
+
+input[type="submit"]{
+   cursor: grab;
+}
